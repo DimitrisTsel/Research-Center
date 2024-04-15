@@ -1,10 +1,7 @@
-
-markdown
-Copy code
 # Research Center Desktop App
 
 ## Overview
-This project was an application implemented for the purpose of the course: **Relational Databases** during my **MSc in Advanced Information Systems**.
+This project is an application implemented for the purpose of the course: **Relational Databases** during my **MSc in Advanced Information Systems**.
 This Java desktop application, implemented with Swing for the user interface (UI) and MySQL database for data storage, is designed to serve as a management 
 tool for a research center. It provides functionalities for visitors to retrieve announcements, members, the labs of the Research Center, the classes, and the publications.
 Also, only admins have rights to insert, update, and delete data.
